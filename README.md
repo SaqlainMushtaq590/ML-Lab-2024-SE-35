@@ -1,18 +1,15 @@
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Machine Learning Lab — animated neural network" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1026,50:5636B8,100:06B6D4&height=210&section=header&text=Machine%20Learning%20Lab&fontSize=43&fontColor=FFFFFF&fontAlignY=38&desc=CS-3105%20%7C%20From%20Data%20to%20Intelligence&descAlignY=62&descSize=17" alt="Machine Learning Lab" />
 
-# Machine Learning Lab
-
-**CS-3105 · Experimental notebooks · Model evaluation**
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=46F5C8&center=true&vCenter=true&width=650&lines=Explore+the+data.;Engineer+the+features.;Train+the+model.;Evaluate+the+results." alt="Explore, engineer, train, evaluate" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1200&color=22D3EE&center=true&vCenter=true&width=440&lines=Explore.+Experiment.+Evaluate.;From+Python+to+Neural+Networks.;Turning+Data+into+Intelligence." alt="Explore. Experiment. Evaluate." />
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-5636B8?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-0B1026?style=for-the-badge&logo=jupyter&logoColor=22D3EE)
 ![ML](https://img.shields.io/badge/Machine_Learning-scikit--learn-5636B8?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Labs](https://img.shields.io/badge/Curriculum-15_Labs-0891B2?style=for-the-badge)
 
+**LEARN THE THEORY · IMPLEMENT THE LOGIC · EVALUATE THE RESULTS**
 
 [Overview](#01--overview) · [Roadmap](#02--learning-roadmap) · [Lab Index](#04--lab-index) · [Setup](#07--getting-started)
 
@@ -22,8 +19,6 @@
 
 ## 01 / Overview
 
-<img src="assets/section-1.svg" width="100%" alt="Overview" />
-
 Machine learning is more than training a model. It is the process of transforming raw data into meaningful insights, measurable predictions and intelligent decisions.
 
 This repository documents my practical journey through **CS-3105 — Machine Learning Lab**, from Python fundamentals to handwritten digit classification. It is designed as a growing collection of reproducible experiments, documented solutions, visualizations and model evaluations.
@@ -31,20 +26,13 @@ This repository documents my practical journey through **CS-3105 — Machine Lea
 | Academic profile | Details |
 | :--- | :--- |
 | Student | **Saqlain Mushtaq** |
-| Roll number | `YOUR_ROLL_NUMBER` |
+| Roll number | 2024-SE-35 |
 | Degree | BS Software Engineering |
 | University | The University of Azad Jammu & Kashmir, Muzaffarabad |
 | Course | CS-3105 — Machine Learning Lab |
 | Instructor | Engr. Muhammad Awais |
 
 ## 02 / Learning Roadmap
-
-<img src="assets/section-2.svg" width="100%" alt="Learning Roadmap" />
-
-<table align="center">
-<tr><td width="33%"><img src="assets/phase-1.svg" alt="Phase 1" /></td><td width="33%"><img src="assets/phase-2.svg" alt="Phase 2" /></td><td width="33%"><img src="assets/phase-3.svg" alt="Phase 3" /></td></tr>
-<tr><td width="33%"><img src="assets/phase-4.svg" alt="Phase 4" /></td><td width="33%"><img src="assets/phase-5.svg" alt="Phase 5" /></td><td width="33%"><img src="assets/phase-6.svg" alt="Phase 6" /></td></tr>
-</table>
 
 ```mermaid
 flowchart TD
@@ -65,8 +53,6 @@ flowchart TD
 
 ## 03 / Course Learning Outcomes
 
-<img src="assets/section-3.svg" width="100%" alt="Course Learning Outcomes" />
-
 | CLO | Learning outcome | Cognitive level | PLO | Labs |
 | :---: | :--- | :--- | :--- | :---: |
 | 05 | Use Python programming and tools for data handling and basic operations | C-3 · Apply | PLO 5 · Modern Tool Usage | 01–02 |
@@ -75,8 +61,6 @@ flowchart TD
 
 ## 04 / Lab Index
 
-<img src="assets/section-4.svg" width="100%" alt="Lab Index" />
-
 <div align="center">
 
 ![Progress](https://img.shields.io/badge/Progress-Not_Updated-64748B?style=for-the-badge)
@@ -84,12 +68,6 @@ flowchart TD
 *Update the progress badge and status column as labs are completed.*
 
 </div>
-
-<img src="assets/labs-1.svg" width="100%" alt="Lab experiments 1 to 5; completion not updated" />
-<img src="assets/labs-2.svg" width="100%" alt="Lab experiments 6 to 10; completion not updated" />
-<img src="assets/labs-3.svg" width="100%" alt="Lab experiments 11 to 15; completion not updated" />
-
-<details><summary><b>Open accessible lab index / update status</b></summary>
 
 | Lab | Experiment / Topic | Domain | CLO | Status |
 | :---: | :--- | :--- | :---: | :---: |
@@ -109,13 +87,9 @@ flowchart TD
 | `14` | Multi-Layer Perceptron | Neural Networks | 07 | ⬜ |
 | `15` | Open-Ended Lab — Handwritten Digit Classification | Applied ML | 07 | ⬜ |
 
-</details>
-
 **Status key:** ✅ Completed · 🟡 In progress · ⬜ Not updated
 
 ## 05 / Technology Stack
-
-<img src="assets/section-5.svg" width="100%" alt="Technology Stack" />
 
 <div align="center">
 
@@ -142,8 +116,6 @@ flowchart TD
 
 ## 06 / Repository Architecture
 
-<img src="assets/section-6.svg" width="100%" alt="Repository Architecture" />
-
 Suggested structure as experiments are added:
 
 ```text
@@ -164,8 +136,6 @@ Machine-Learning-Lab/
 Each lab is intended to be a self-contained experiment with an objective, implementation, results and interpretation.
 
 ## 07 / Getting Started
-
-<img src="assets/section-7.svg" width="100%" alt="Getting Started" />
 
 ### Option A — Google Colab
 
@@ -190,8 +160,6 @@ Open the desired notebook and restart the kernel before running all cells. Use a
 
 ## 08 / Experimental Workflow
 
-<img src="assets/section-8.svg" width="100%" alt="Experimental Workflow" />
-
 ```mermaid
 flowchart LR
     A[Raw Data] --> B[Preprocess]
@@ -206,8 +174,6 @@ flowchart LR
 For applicable modeling labs, split data before fitting preprocessing steps to prevent data leakage. Use suitable evaluation metrics such as MAE, RMSE and R² for regression, precision, recall and F1-score for classification, and silhouette score where appropriate for clustering.
 
 ## 09 / Documentation Standards
-
-<img src="assets/section-9.svg" width="100%" alt="Documentation Standards" />
 
 - One organized notebook per lab, following `LabNN_RollNo_Name.ipynb`.
 - Markdown explanations covering the task, approach and expected output.
@@ -226,7 +192,7 @@ For applicable modeling labs, split data before fitting preprocessing steps to p
 
 *The University of Azad Jammu & Kashmir, Muzaffarabad*
 
-[![GitHub](https://img.shields.io/badge/GitHub-Developer_Profile-5636B8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-Developer_Profile-5636B8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaqlainMushtaq590)
 
 *Every experiment is a step toward understanding intelligence.*
 
